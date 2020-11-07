@@ -1,9 +1,5 @@
 #!/bin/env bash
 
-# Franklin Souza
-
-# @FranklinTech
-
 # Limpar console
 
 clear
